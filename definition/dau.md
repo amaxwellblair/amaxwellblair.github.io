@@ -1,8 +1,7 @@
 ---
 layout: post
+title: DAU (Daily active user)
 ---
-
-# DAU (Daily active user)
 
 #### Definition
 
