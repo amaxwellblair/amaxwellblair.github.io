@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Glossary
 ---
 
-## Terms
 <div>
  {% for item in site.data.definitions %}
     <a href="definition/{{ item.url }}" alt="{{ item.term }}">{{ item.term }}</a>
