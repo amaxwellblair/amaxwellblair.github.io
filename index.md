@@ -7,6 +7,6 @@ Our mission is to provide definitions of the most used growth metrics as well as
 ## Metrics
 <ul>
  {% for item in site.data.definitions %}
-    <li><a href="definition/{{ item.url }}" alt="{{ item.term }}">{{ item.term }}</a></li>
+    <li><a href="definition/{{ item.url }}/" alt="{{ item.term }}">{{ item.term }}</a></li>
  {% endfor %}
 </ul>
