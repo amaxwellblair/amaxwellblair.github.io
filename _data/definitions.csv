@@ -1,3 +1,5 @@
 term,url,definition
-DAU,dau,Daily active user
-WAU,wau,Weekly active user
+DAU,dau,Daily active users
+WAU,wau,Weekly active users
+Unauth users,unauthenticated-users,Unauthenticated users
+Auth users,authenticated-users,Authenticated users

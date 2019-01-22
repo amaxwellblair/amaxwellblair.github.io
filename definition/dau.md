@@ -15,8 +15,8 @@ How is it measured? Depending on what a practitioner is looking for they might a
 ### Formulas
 
     # Raw volume metrics
-    Authenticated DAUs = Unique sessions with an authenticated token
-    Unauthenticated DAUs = Unique sessions with no token detected
+    Authenticated DAUs = Unique sessions with an authenticated token on a specific day
+    Unauthenticated DAUs = Unique sessions with no authentication token detected on a specific day
 
     # Relative metrics
     Authenticated DAUs / Total registered users = % of users who use the site daily
