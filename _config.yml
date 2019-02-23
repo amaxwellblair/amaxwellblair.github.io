@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Growth terms, definitions, and abbreviations explained in a simple and practical way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://usergrowthmetrics.com" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: "UA-74990862-2"
 
 # Build settings
 markdown: kramdown
@@ -28,7 +29,6 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
