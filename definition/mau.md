@@ -10,6 +10,7 @@ MAU is an abbreviation for "Monthly Active User". This metric is used to describ
 ### Practical use
 *This definition won't go through the basics of what an active user count is check out [DAU](/definition/dau) (Daily Active Users) for more information on this*
 
+
 MAU is usually the largest measurement of a user's activity. Monitoring the monthly visitation of the user base is useful to track large macro trends or to understand a less often used application. Many companies also use it as a public reporting metric. For example Facebook often reports on their total MAU count to give investors a perspective on their growth. This metric is often favored for this purpose since it won't show as large of swings as [DAUs](/definition/dau) or [WAUs](/definition/wau). For example if one time event occurred towards the end of a financial reporting period it could significantly drop a shorter term metric. On the other hand because MAU is an accumulation of all users who came for one month it will be more insulated from such one off changes.
 
 ### Formulas
